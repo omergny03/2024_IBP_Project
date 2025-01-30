@@ -1,9 +1,9 @@
 
-<a href="[https://github.com/laravel/framework/actions](https://www.youtube.com/watch?v=Y7PtTNzCxQA)"><p align="center">
-  <a href="[https://youtube.com](https://www.youtube.com/watch?v=Y7PtTNzCxQA)" target="_blank">
+<p>
+  <a href="https://www.youtube.com/watch?v=Y7PtTNzCxQA" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="400" alt="Youtube video link">
   </a>
-</p> </a>
+</p> 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
